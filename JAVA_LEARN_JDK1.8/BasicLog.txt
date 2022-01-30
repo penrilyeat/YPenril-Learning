@@ -1,0 +1,12 @@
+Jan 30, 2022 9:01:27 PM com.ypenril.logger.basic.Main method1
+INFO: This is Info Log 1
+Jan 30, 2022 9:01:27 PM com.ypenril.logger.basic.Main method1
+WARNING: This is the Warning Log 1
+Jan 30, 2022 9:01:27 PM com.ypenril.logger.basic.Main method1
+SEVERE: This is the Severe Log 1
+Jan 30, 2022 9:01:27 PM com.ypenril.logger.basic.Main method1
+INFO: This is Info Log 2
+Jan 30, 2022 9:01:27 PM com.ypenril.logger.basic.Main method1
+WARNING: This is Warning Log 2
+Jan 30, 2022 9:01:27 PM com.ypenril.logger.basic.Main method1
+SEVERE: This is Severe Log 2
